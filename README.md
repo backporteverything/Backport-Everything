@@ -9,6 +9,23 @@ There are other packs available, such as [MC New Textures](https://modrinth.com/
 
 This was a fun little project, but there are **probably a few texture issues here and there** from trying to convert them. If you notice any issues and are willing to let me know, please send me an email at [backporteverything@gmail.com](mailto:backporteverything@gmail.com), and I'll get it fixed. See below for a list of known bugs which will get fixed soon™.
 
+<details>
+<summary>Notes & Known Bugs</summary>
+Note:  From 1.0 and newer, because the Redstone Wire (unconnected) texture is decided by the middle pixels of the Redstone Wire (NESW) texture, the unconnected texture cannot be made more accurate.
+
+Note: From Alpha v1.2.0 to Beta 1.5, the Grass side faces are not affected by biome colours and are a static colour, but the top texture is, which is not fixable.
+
+Note: The Minecraft logo on the title screen is not modifiable.
+
+Note: For Beta 1.8, the fire texture appears differently; this is not fixable in vanilla Minecraft.
+
+Note: The clock texture is not modifiable in vanilla Minecraft for the versions the texture pack currently supports.
+
+Note: Some versions of the texture pack don't have colour formatting in the pack.txt file, as an undesired character shows before the coloured text.
+
+There are currently no known bugs.
+</details>
+
 Currently, this pack **does not officially support any mods**, but I will look into it in the future. If you have any suggestions, feel free to send me an email.
 
 Big thank you to Julien Kerboeuf for creating the [Minecraft Resource Extractor](https://github.com/JKerboeuf/Minecraft-Resource-Extractor). It definitely helped speed up a lot of the tedious parts. Thank you also to the Mojang Art Director [JAPPA](https://x.com/JasperBoerstra) for the texture update for 1.14! 
