@@ -1,2 +1,43 @@
 # Backport-Everything
-Backporting modern textures to old (and even older) versions of Minecraft.
+**Backport Everything** attempts to convert modern Minecraft to the older versions!
+
+If you want to see what older versions look like with new textures, _this is the pack for you_. Test them out on older versions for a laugh, or start an alpha or beta survival world for a simpler time.
+
+Currently updated for **1.21.11 textures**, this pack hopes to bring the modern version to the older ones. Currently, the pack **supports versions 1.1 and older**, going all the way back to the first version in 2009 with pre-classic build rd-132211, which is just grass and cobblestone.
+
+There are other packs available, such as [MC New Textures](https://modrinth.com/resourcepack/mc-new-textures), [Modernity](https://modrinth.com/resourcepack/modernity) and [Modern Textures](https://modrinth.com/resourcepack/modern-textures), but I find that they either miss out some textures (e.g. leather armour, fast leaves) or don't support the beta and alpha versions. This texture project is also available to download on Modrinth if you prefer, [click here for a link](https://modrinth.com/resourcepack/backport-everything).
+
+This was a fun little project, but there are **probably a few texture issues here and there** from trying to convert them. If you notice any issues and are willing to let me know, please send me an email at [backporteverything@gmail.com](mailto:backporteverything@gmail.com), and I'll get it fixed. See below for a list of known bugs which will get fixed soon™.
+
+Currently, this pack **does not officially support any mods**, but I will look into it in the future. If you have any suggestions, feel free to send me an email.
+
+Big thank you to Julien Kerboeuf for creating the [Minecraft Resource Extractor](https://github.com/JKerboeuf/Minecraft-Resource-Extractor). It definitely helped speed up a lot of the tedious parts. Thank you also to the Mojang Art Director [JAPPA](https://x.com/JasperBoerstra) for the texture update for 1.14! 
+
+## Installing texture packs for versions 1.1 to Alpha v1.2.6
+Texture packs are natively supported for these versions and so installing is pretty easy.
+1. Run Minecraft, click the Texture Packs (1.1/1.0) or Mods and Texture Packs (b.1.8.1 and earlier) button in the main menu.
+2. Click the Open Texture Pack Folder button, this will open the folder where the texture packs can be installed.
+3. Drag the Backport Everything texture pack into the folder and it should appear in Minecraft after a few seconds.
+4. Select the texture pack, and now it's applied and ready to go.
+
+## Installing texture packs for Alpha v1.2.5 and earlier
+**Texture packs are not supported natively before Alpha v1.2.2**, but earlier versions can have their textures swapped out using a jar mod. I don't _really_ know why you'd want to play those versions, but it's funny to see them working with the latest textures.
+
+Just a note, rd-20090515 kept crashing for me on launch, and so I can't test it. But since it's just 13 textures, you won't be missing much if you can't run it yourself.
+
+To add textures to old old versions that don't support texture packs, you'll need to add it as a jar mod using [Prism Launcher](https://prismlauncher.org/) or [MultiMC](https://multimc.org/), they're pretty much the same, but Prism Launcher has fancy extra features.
+
+1. Before we start, download the texture pack for the version you want and extract it using your preferred file extractor (e.g. 7-Zip, WinRAR, Windows). You should now have the jar file that we'll use later on.
+2. Download and install either [Prism Launcher](https://prismlauncher.org/) or [MultiMC](https://multimc.org/), take your pick.
+3. Open either Prism or MultiMC, log in to your Microsoft account and then click the 'Add Instance' button in the top-right corner.
+4. In the 'Custom' (Prism) or 'Vanilla' (MultiMC) section, on the right-hand side, tick the checkboxes for 'Betas' and 'Alphas' in the filter list.
+5. Scroll down to the version you want to play, select it and click the OK button in the bottom-right.
+6. Once you've clicked OK, an icon will appear for the version you selected. Right-click on the icon and click 'Edit...' (Prism) or 'Edit Instance' (MultiMC)
+7. Go to the 'Version' tab if you're on Prism Launcher.
+8. Once you're on the version tab, you should see a list of actions on the right-hand side. Click the button that says 'Add to Minecraft.jar'
+9. A new window should appear, locate that jar file you got during step 1, select it and open it.
+10. The jar mod should now be installed. You can then launch the version of Minecraft, and the new textures should work!
+
+
+
+
