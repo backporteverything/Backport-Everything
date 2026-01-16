@@ -11,8 +11,8 @@ This was a fun little project, but there are **probably a few texture issues her
 
 <details>
 <summary>Notes & Known Bugs</summary>
-Note:  From 1.0 and newer, because the Redstone Wire (unconnected) texture is decided by the middle pixels of the Redstone Wire (NESW) texture, the unconnected texture cannot be made more accurate.
-
+Note:  From 1.0 and newer, because the Redstone Wire (unconnected) texture is decided by the middle pixels of the Redstone Wire (NESW) texture, the unconnected texture cannot be made more accurate.<br>
+<br>
 Note: From Alpha v1.2.0 to Beta 1.5, the Grass side faces are not affected by biome colours and are a static colour, but the top texture is, which is not fixable.
 
 Note: The Minecraft logo on the title screen is not modifiable.
