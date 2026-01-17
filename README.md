@@ -1,4 +1,4 @@
-# Backport Everything
+![A banner stating "Backport Everything" in the Minecraft title font](https://cdn.modrinth.com/data/cached_images/d72f7e2467a90334bc4d117962321e0994afcd41.png)
 **Backport Everything** attempts to convert modern Minecraft textures to the older versions!
 
 If you want to see what older versions look like with new textures, _this is the pack for you_. Test them out on older versions for a laugh, or start an alpha or beta survival world for a simpler time.
@@ -11,17 +11,17 @@ This was a fun little project, but there are **probably a few texture issues her
 
 <details>
 <summary>Notes & Known Bugs</summary>
-Note:  From 1.0 and newer, because the Redstone Wire (unconnected) texture is decided by the middle pixels of the Redstone Wire (NESW) texture, the unconnected texture cannot be made more accurate.<br>
+Note: From 1.0 and newer, because the Redstone Wire (unconnected) texture is decided by the middle pixels of the Redstone Wire (NESW) texture, the unconnected texture cannot be made more accurate.<br> 
 <br>
 Note: From Alpha v1.2.0 to Beta 1.5, the Grass side faces are not affected by biome colours and are a static colour, but the top texture is, which is not fixable.
 
 Note: The Minecraft logo on the title screen is not modifiable.
 
-Note: For Beta 1.8, the fire texture appears differently; this is not fixable in vanilla Minecraft.
-
-Note: The clock texture is not modifiable in vanilla Minecraft for the versions the texture pack currently supports.
+Note: The clock texture is only modifiable with MCPatcher or Optifine.
 
 Note: Some versions of the texture pack don't have colour formatting in the pack.txt file, as an undesired character shows before the coloured text.
+
+Note: Water & lava animated textures have been added, but they require either Optifine or MCPatcher to appear in-game.
 
 There are currently no known bugs.
 </details>
@@ -44,17 +44,13 @@ Just a note, rd-20090515 kept crashing for me on launch, and so I can't test it.
 
 To add textures to old old versions that don't support texture packs, you'll need to add it as a jar mod using [Prism Launcher](https://prismlauncher.org/) or [MultiMC](https://multimc.org/), they're pretty much the same, but Prism Launcher has fancy extra features.
 
-1. Before we start, download the texture pack for the version you want and extract it using your preferred file extractor (e.g. 7-Zip, WinRAR, Windows). You should now have the jar file that we'll use later on.
-2. Download and install either [Prism Launcher](https://prismlauncher.org/) or [MultiMC](https://multimc.org/), take your pick.
-3. Open either Prism or MultiMC, log in to your Microsoft account and then click the 'Add Instance' button in the top-right corner.
-4. In the 'Custom' (Prism) or 'Vanilla' (MultiMC) section, on the right-hand side, tick the checkboxes for 'Betas' and 'Alphas' in the filter list.
-5. Scroll down to the version you want to play, select it and click the OK button in the bottom-right.
-6. Once you've clicked OK, an icon will appear for the version you selected. Right-click on the icon and click 'Edit...' (Prism) or 'Edit Instance' (MultiMC)
-7. Go to the 'Version' tab if you're on Prism Launcher.
-8. Once you're on the version tab, you should see a list of actions on the right-hand side. Click the button that says 'Add to Minecraft.jar'
-9. A new window should appear, locate that jar file you got during step 1, select it and open it.
-10. The jar mod should now be installed. You can then launch the version of Minecraft, and the new textures should work!
-
-
-
-
+1. Download the ZIP file for the version of Minecraft you want to change, you'll need it for later.
+1. Download and install either [Prism Launcher](https://prismlauncher.org/) or [MultiMC](https://multimc.org/), take your pick.
+2. Open either Prism or MultiMC, log in to your Microsoft account and then click the 'Add Instance' button in the top-right corner.
+3. In the 'Custom' (Prism) or 'Vanilla' (MultiMC) section, on the right-hand side, tick the checkboxes for 'Betas' and 'Alphas' in the filter list.
+4. Scroll down to the version you want to play, select it and click the OK button in the bottom-right.
+5. Once you've clicked OK, an icon will appear for the version you selected. Right-click on the icon and click 'Edit...' (Prism) or 'Edit Instance' (MultiMC)
+6. Go to the 'Version' tab if you're on Prism Launcher.
+7. Once you're on the version tab, you should see a list of actions on the right-hand side. Click the button that says 'Add to Minecraft.jar'
+8. A new window should appear, locate the Backport Everything file, select it and open it.
+9. The jar mod should now be installed. You can then launch the version of Minecraft, and the new textures should work!
