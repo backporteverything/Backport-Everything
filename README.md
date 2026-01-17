@@ -27,7 +27,7 @@ Note: Water & lava animated textures have been added, but they require either Op
 There are currently no known bugs.
 </details>
 
-Currently, this pack **does not officially support any mods**, but I will look into it in the future. If you have any suggestions, feel free to send me an email.
+Currently, this pack **supports Optifine & MCPatcher's connected textures as well as animated lava & water**. If you have any other suggestions for mods, feel free to send me an email.
 
 Big thank you to Julien Kerboeuf for creating the [Minecraft Resource Extractor](https://github.com/JKerboeuf/Minecraft-Resource-Extractor). It definitely helped speed up a lot of the tedious parts. Thank you also to the Mojang Art Director [JAPPA](https://x.com/JasperBoerstra) for the texture update for 1.14! 
 
