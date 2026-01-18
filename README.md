@@ -8,7 +8,7 @@ Currently updated for **1.21.11 textures**, this pack hopes to bring the modern 
 
 There are other packs available, such as [MC New Textures](https://modrinth.com/resourcepack/mc-new-textures), [Modernity](https://modrinth.com/resourcepack/modernity) and [Modern Textures](https://modrinth.com/resourcepack/modern-textures), but I find that they either miss out some textures (e.g. leather armour, fast leaves) or don't support the beta and alpha versions. This texture project is also available to download on Modrinth if you prefer, [click here for a link](https://modrinth.com/resourcepack/backport-everything).
 
-This was a fun little project, but there are **probably a few texture issues here and there** from trying to convert them. If you notice any issues and are willing to let me know, please send me an email at [backporteverything@gmail.com](mailto:backporteverything@gmail.com), and I'll get it fixed. See below for a list of known bugs which will get fixed soon™.
+This was a fun little project, but there are **probably a few texture issues here and there** from trying to convert them. If you notice any problems and are willing to let me know, please send an email to [backporteverything@gmail.com](mailto:backporteverything@gmail.com), and I'll address the issue. See below for a list of known bugs which will get fixed soon™.
 
 <details>
 <summary>Notes & Known Bugs</summary>
@@ -27,15 +27,19 @@ Note: Water & lava animated textures have been added, but they require either Op
 There are currently no known bugs.
 </details>
 
-Currently, this pack **supports Optifine & MCPatcher's connected textures as well as animated lava & water**. If you have any other suggestions for mods, feel free to send me an email.
+Currently, this pack supports:
+- Optifine & MCPatcher for connected textures and animated lava & water
+- [The Aether](https://modrinth.com/mod/aether) and [Aether on Station API](https://modrinth.com/mod/aether-stapi)
+
+If you have any other suggestions for mods, feel free to send me an email.
 
 Big thank you to Julien Kerboeuf for creating the [Minecraft Resource Extractor](https://github.com/JKerboeuf/Minecraft-Resource-Extractor). It definitely helped speed up a lot of the tedious parts. Thank you also to the Mojang Art Director [JAPPA](https://x.com/JasperBoerstra) for the texture update for 1.14! 
 
 ## Installing texture packs for versions 1.1 to Alpha v1.2.6
-Texture packs are natively supported for these versions and so installing is pretty easy.
+Texture packs are natively supported for these versions, and so installing is pretty easy.
 1. Run Minecraft, click the Texture Packs (1.1/1.0) or Mods and Texture Packs (b.1.8.1 and earlier) button in the main menu.
-2. Click the Open Texture Pack Folder button, this will open the folder where the texture packs can be installed.
-3. Drag the Backport Everything texture pack into the folder and it should appear in Minecraft after a few seconds.
+2. Click the Open Texture Pack Folder button. This will open the folder where the texture packs can be installed.
+3. Drag the Backport Everything texture pack into the folder, and it should appear in Minecraft after a few seconds.
 4. Select the texture pack, and now it's applied and ready to go.
 
 ## Installing texture packs for Alpha v1.2.5 and earlier
@@ -43,9 +47,9 @@ Texture packs are natively supported for these versions and so installing is pre
 
 Just a note, rd-20090515 kept crashing for me on launch, and so I can't test it. But since it's just 13 textures, you won't be missing much if you can't run it yourself.
 
-To add textures to old old versions that don't support texture packs, you'll need to add it as a jar mod using [Prism Launcher](https://prismlauncher.org/) or [MultiMC](https://multimc.org/), they're pretty much the same, but Prism Launcher has fancy extra features.
+To add textures to old versions that don't support texture packs, you'll need to add them as a jar mod using [Prism Launcher](https://prismlauncher.org/) or [MultiMC](https://multimc.org/), they're pretty much the same, but Prism Launcher has fancy extra features.
 
-1. Download the ZIP file for the version of Minecraft you want to change, you'll need it for later.
+1. Download the ZIP file for the version of Minecraft you want to change. You'll need it for later.
 1. Download and install either [Prism Launcher](https://prismlauncher.org/) or [MultiMC](https://multimc.org/), take your pick.
 2. Open either Prism or MultiMC, log in to your Microsoft account and then click the 'Add Instance' button in the top-right corner.
 3. In the 'Custom' (Prism) or 'Vanilla' (MultiMC) section, on the right-hand side, tick the checkboxes for 'Betas' and 'Alphas' in the filter list.
