@@ -1,4 +1,6 @@
-Optifine HD S G (Smooth Edition) Long Distance Patch
-Requires Optifine HD S G
+Optifine HD G Long Distance Patch
+Requires Optifine HD G
 
+Patch created by interloper/Historian, patch updated by farnfarn02
+Source on r/GoldenAgeMinecraft: https://www.reddit.com/r/GoldenAgeMinecraft/comments/11y8872/optifine_hd_g_long_distance_jittery_patch_v2/
 This mod ports the Optifine HD G Long Distance Patch to the smooth edition.
