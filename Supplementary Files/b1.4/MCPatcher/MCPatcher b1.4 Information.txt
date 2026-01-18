@@ -1,0 +1,12 @@
+MCPatcher (previously known as HD texture fix) covers version 2.0.0-beta1 to 2.0.0-beta4 for Beta 1.4.
+
+MCPatcher 2.0.0-beta1 to 2.0.0-beta4 allows for:
+- HD Textures
+- HD Font 
+
+2.0.0-beta1:
+- New MCPatcher
+- Supports HD Textures
+- Supports HD Font
+
+2.0.0-beta4 onwards does not load correctly due to requiring the old format for .minecraft

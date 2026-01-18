@@ -1,0 +1,17 @@
+MCPatcher (previously known as HD texture fix) covers version 1.1.12_01 and 1.1.12_02 for Beta 1.3.
+
+MCPatcher 1.1.12_01 and 1.1.12_02 allows for:
+- Animated Water
+- Animated Lava
+- Animated Fire
+- Custom Water
+- Custom Lava
+- Custom Portals (1.1.11 onwards)
+- Custom resolution support
+- HD Font
+
+1.1.12_01:
+- Support for Beta 1.3
+- Compass "(and more?) is screwed up"
+1.1.12_02:
+- Fixed compass

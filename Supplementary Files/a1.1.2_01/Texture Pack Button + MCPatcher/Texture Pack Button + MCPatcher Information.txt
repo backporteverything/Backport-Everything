@@ -1,0 +1,4 @@
+Farn (farnfarn02 on Discord) modded Alpha v1.1.2_01 to add a texture pack button to the game alongside with MCPatcher from Beta 1.7.3.
+
+Unlike the original MCPatcher, this one is intentionally trying not to edit the Minecraft.class file
+V2 of the mod fixed broken block transparency after entering the Texture Pack menu, and added Texture Pack saving.

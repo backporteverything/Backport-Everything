@@ -1,0 +1,4 @@
+Optifine HD S G (Smooth Edition) Long Distance Patch
+Requires Optifine HD S G
+
+This mod ports the Optifine HD G Long Distance Patch to the smooth edition.

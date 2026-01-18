@@ -1,0 +1,3 @@
+MCPatcher (previously known as HD texture fix) covers 2.1.1_01 to 2.2.0 for Beta 1.8.1.
+
+2.0.0-beta4 onwards does not load correctly due to requiring the old format for .minecraft.

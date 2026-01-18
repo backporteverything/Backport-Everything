@@ -1,0 +1,18 @@
+MCPatcher (previously known as HD texture fix) covers versions 1.1.10_01 to 1.1.12pre1 for Beta 1.1_02.
+
+MCPatcherFarnB1.1_02 backports MCPatcher Beta 1.7.3 to Beta 1.1_02.
+
+MCPatcher 1.1.10_01 to 1.1.12pre1 allows for:
+- Animated Water
+- Animated Lava
+- Animated Fire
+- Custom Water
+- Custom Lava
+- Custom Portals (1.1.11 onwards)
+
+1.1.10_01:
+- Fixed custom water and lava for Beta 1.1_02
+1.1.11:
+- Custom portal support added
+1.1.12pre1:
+- Changelog unknown

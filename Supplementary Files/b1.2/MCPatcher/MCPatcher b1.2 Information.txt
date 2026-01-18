@@ -1,0 +1,21 @@
+MCPatcher (previously known as HD texture fix) covers versions 1.1.12 for Beta 1.2.
+
+MCPatcher 1.1.12 allows for:
+- Animated Water
+- Animated Lava
+- Animated Fire
+- Custom Water
+- Custom Lava
+- Custom Portals (1.1.11 onwards)
+- Custom resolution support
+- HD Font
+
+1.1.12:
+- Improved compatibility with other mods
+- Improved logging
+- Improved error handling
+- Added custom resolution support
+- Added animation performance warning
+- Removed .rar support
+- Removed admin privilages requirement on Windows
+- Fixed disabled animations removing sandstone texture

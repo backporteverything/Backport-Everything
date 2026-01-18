@@ -1,0 +1,14 @@
+MCPatcher (previously known as HD texture fix) covers versions 1.1.10 for Beta 1.0.
+
+MCPatcher 1.1.10 allows for:
+- Animated Water
+- Animated Lava
+- Animated Fire
+- Custom Water
+- Custom Lava
+
+1.1.9_03:
+- Fixed custom water and lava for Beta 1.0
+- Changes 'Run Minecraft' button to 'Test Minecraft' for clarity
+- Patch to add version name to backup jars created
+- Custom water and lava will automatically be disabled when there's a new Minecraft version if the class names aren't correct

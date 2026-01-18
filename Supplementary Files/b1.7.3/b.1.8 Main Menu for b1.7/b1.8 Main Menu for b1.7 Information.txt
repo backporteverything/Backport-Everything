@@ -1,0 +1,4 @@
+Created by Vivian (vivianfox. on Discord), found on the Modification Station Discord server.
+b1.8 Main Menu for b1.7 does what it says on the tin.
+It's compatible with anything that doesn't change the edited classes.
+(Optifine throws up OpenGL errors at the main menu but otherwise functions, MCPatcher doesn't have this problem)

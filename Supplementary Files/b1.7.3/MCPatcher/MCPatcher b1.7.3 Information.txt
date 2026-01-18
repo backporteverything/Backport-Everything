@@ -1,0 +1,6 @@
+MCPatcher_Logan_b173 was found on the Modification Station Discord server.
+This mod ports MCPatcher to work with Beta 1.7.3.
+
+MCPatcher b1.7.3 with DepthBufferFix adds the 24bit depth buffer patch to get rid of jaggy lines on clouds, snow and blocks.
+This occurs with more modern graphic card drivers that use modern versions of OpenGL.
+Mod originally created by Paul Rupe. Port by Vivian (vivianfox. on Discord). Found on the Modification Station Discord server.

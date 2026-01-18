@@ -1,0 +1,12 @@
+MCPatcher (previously known as HD texture fix) is only available starting from version 1.1.6 for Alpha v1.1.2_01.
+
+MCPatcher 1.1.6 and 1.1.7 allows for:
+- Animated Water
+- Animated Lava
+- Animated Fire
+- Custom Water
+- Custom Lava
+- Better Grass
+
+1.1.6 added MrMessiah's Better Grass and custom water and lava animated options.
+1.1.7 added "basic support for new update. Lots of bugs."

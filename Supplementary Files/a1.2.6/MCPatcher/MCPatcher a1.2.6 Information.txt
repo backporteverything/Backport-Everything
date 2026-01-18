@@ -1,0 +1,11 @@
+MCPatcher (previously known as HD texture fix) covers versions 1.1.9_04 for Alpha v1.2.6.
+
+MCPatcher 1.1.9_04 allows for:
+- Animated Water
+- Animated Lava
+- Animated Fire
+- Custom Water
+- Custom Lava
+
+1.1.9_03:
+- Fixed custom water and lava for Alpha v1.2.6

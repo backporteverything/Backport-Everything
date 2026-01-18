@@ -1,0 +1,9 @@
+"This mod improves FPS, especially slower computers. Gains of 20FPS and more are common.
+
+Components:
+- FastRender: more efficient chunk queue processing.
+- UniText: a completely rewritten text renderer. It's faster and supports Unicode, although the Unicode font files are not included with this release.
+- Fewer glClears: erasing the entire screen is expensive. This mod avoids it when possible.
+- Better chunk drawing code: Removing a few useless transforms from the chunk rendering code lets all visible chunks be drawn in a straightforward manner.
+- Better Tesselation: Modified for speed. TNT explosions no longer cause clients to have horrible lag, and everything in general should feel faster.
+- Error handling: Don't go to a black screen when there's an OpenGL error. Print a decent error message to the command line instead.
