@@ -1,3 +1,8 @@
 MCPatcher (previously known as HD texture fix) cover version 2.1.0 to 2.1.0_01 for Beta 1.6.
 
-2.0.0-beta4 onwards does not load correctly due to requiring the old format for .minecraft.
+2.0.0-beta4 onwards requires a little work to patch texture packs. Below are the extra steps:
+- Download the lwjgl.zip
+- Make 'folder'
+- Make 'bin' folder inside of 'folder'
+- Put minecraft.jar and lwjgl.jar (inside lwjgl.zip) into bin
+- Select 'folder' when MCPatcher asks you to select Minecraft directory
