@@ -4,7 +4,7 @@
 
 If you want to see what older versions look like with new textures, _this is the pack for you_. Test them out on older versions for a laugh, or start an alpha or beta survival world for a simpler time.
 
-Currently updated for **1.21.11 textures**, this pack hopes to bring the modern version to the older ones. Currently, the pack **supports versions 1.1 and older**, going all the way back to the first version in 2009 with pre-classic build rd-132211, which is just grass and cobblestone.
+Currently updated for **1.21.11 textures**, this pack hopes to bring the modern version to the older ones. Currently, the pack **supports versions 1.1 and older**, dating back to the first version in 2009 with the pre-classic build rd-132211, which features only grass and cobblestone.
 
 There are other packs available, such as [MC New Textures](https://modrinth.com/resourcepack/mc-new-textures), [Modernity](https://modrinth.com/resourcepack/modernity) and [Modern Textures](https://modrinth.com/resourcepack/modern-textures), but I find that they either miss out some textures (e.g. leather armour, fast leaves) or don't support the beta and alpha versions. This texture project is also available to download on Modrinth if you prefer, [click here for a link](https://modrinth.com/resourcepack/backport-everything).
 
@@ -27,11 +27,14 @@ Note: Water & lava animated textures have been added, but they require either Op
 There are currently no known bugs.
 </details>
 
-Currently, this pack supports:
-- Optifine & MCPatcher for connected textures and animated lava & water
+Currently, this pack supports: 
+- Optifine
+- MCPatcher
+- [StationAPI](https://modrinth.com/mod/stationapi)
+- [MoreTexture StationAPI](https://github.com/FarnGitHub/More-Texture-StationAPI)
 - [The Aether](https://modrinth.com/mod/aether) and [Aether on Station API](https://modrinth.com/mod/aether-stapi)
 
-If you have any other suggestions for mods, feel free to send me an email.
+For archived versions of Optifine, MCPatcher, and a few extras, please see the Supplementary Files folder on GitHub. If you have any other suggestions for mods, feel free to send me an email.
 
 Big thank you to Julien Kerboeuf for creating the [Minecraft Resource Extractor](https://github.com/JKerboeuf/Minecraft-Resource-Extractor). It definitely helped speed up a lot of the tedious parts. Thank you also to the Mojang Art Director [JAPPA](https://x.com/JasperBoerstra) for the texture update for 1.14! 
 
@@ -73,6 +76,9 @@ To add textures to old versions that don't support texture packs, you'll need to
 
 ![Screenshot of The Aether in Beta 1.7.3](https://cdn.modrinth.com/data/egcD59Ms/images/5bb5f72b4053622256f1edb57a10d1783f5f5bf3.webp)
 **The Aether Beta 1.7.3**: Backport Everything supports The Aether (1.0 and b1.7.3) and Aether on Station API (b1.7.3).
+
+![Screenshot of a Texture Pack Showcase in Beta 1.7.3](https://cdn.modrinth.com/data/egcD59Ms/images/7278d08e8b1009f8a680f52c295bc0e27ef80680.webp)
+**Beta 1.7.3 Texture Pack Showcase**: It's weird to show this with default textures, but it's here for nostalgia.
 
 ![Screenshot of Infdev 20100618](https://cdn.modrinth.com/data/egcD59Ms/images/aa32589bb79f5f98eef3219c95c8363c15249577.webp)
 **Infdev 20100618**: This is the only version of Infdev available in the Minecraft Launcher.
