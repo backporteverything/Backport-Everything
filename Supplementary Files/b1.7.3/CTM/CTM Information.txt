@@ -1,0 +1,9 @@
+CTM (Connected Textures Mod) makes a small amount of blocks connect better.
+
+These include:
+- Sandstone
+- Glass
+- Chests
+- Bookshelves
+
+CTM requires Modloader b1.7.3 to run.
