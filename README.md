@@ -4,7 +4,7 @@
 
 If you want to see what older versions look like with new textures, _this is the pack for you_. Test them out on older versions for a laugh, or start an alpha or beta survival world for a simpler time.
 
-Currently updated for **1.21.11 textures**, this pack hopes to bring the modern version to the older ones. Currently, the pack **supports versions 1.1 and older**, going all the way back to the first version in 2009 with pre-classic build rd-132211, which is just grass and cobblestone.
+Currently updated for **1.21.11 textures**, this pack hopes to bring the modern version to the older ones. Currently, the pack **supports versions 1.1 and older**, dating back to the first version in 2009 with the pre-classic build rd-132211, which features only grass and cobblestone.
 
 There are other packs available, such as [MC New Textures](https://modrinth.com/resourcepack/mc-new-textures), [Modernity](https://modrinth.com/resourcepack/modernity) and [Modern Textures](https://modrinth.com/resourcepack/modern-textures), but I find that they either miss out some textures (e.g. leather armour, fast leaves) or don't support the beta and alpha versions. This texture project is also available to download on Modrinth if you prefer, [click here for a link](https://modrinth.com/resourcepack/backport-everything).
 
@@ -27,11 +27,14 @@ Note: Water & lava animated textures have been added, but they require either Op
 There are currently no known bugs.
 </details>
 
-Currently, this pack supports:
-- Optifine & MCPatcher for connected textures and animated lava & water
+Currently, this pack supports: 
+- Optifine
+- MCPatcher
+- [StationAPI](https://modrinth.com/mod/stationapi)
+- [MoreTexture StationAPI](https://github.com/FarnGitHub/More-Texture-StationAPI)
 - [The Aether](https://modrinth.com/mod/aether) and [Aether on Station API](https://modrinth.com/mod/aether-stapi)
 
-If you have any other suggestions for mods, feel free to send me an email.
+For archived versions of Optifine, MCPatcher, and a few extras, please see the Complementary Files folder on GitHub. If you have any other suggestions for mods, feel free to send me an email.
 
 Big thank you to Julien Kerboeuf for creating the [Minecraft Resource Extractor](https://github.com/JKerboeuf/Minecraft-Resource-Extractor). It definitely helped speed up a lot of the tedious parts. Thank you also to the Mojang Art Director [JAPPA](https://x.com/JasperBoerstra) for the texture update for 1.14! 
 
