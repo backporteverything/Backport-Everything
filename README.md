@@ -1,6 +1,6 @@
 ![A banner stating "Backport Everything" in the Minecraft title font](https://cdn.modrinth.com/data/cached_images/d72f7e2467a90334bc4d117962321e0994afcd41.png)
 
-**Backport Everything** attempts to convert modern Minecraft textures to the older versions!
+**Backport Everything** attempts to convert modern Minecraft textures into older versions!
 
 If you want to see what older versions look like with new textures, _this is the pack for you_. Test them out on older versions for a laugh, or start an alpha or beta survival world for a simpler time.
 
@@ -34,7 +34,7 @@ Currently, this pack supports:
 - [MoreTexture StationAPI](https://github.com/FarnGitHub/More-Texture-StationAPI)
 - [The Aether](https://modrinth.com/mod/aether) and [Aether on Station API](https://modrinth.com/mod/aether-stapi)
 
-For archived versions of Optifine, MCPatcher, and a few extras, please see the Supplementary Files folder on GitHub. If you have any other suggestions for mods, feel free to send me an email.
+For archived versions of Optifine, MCPatcher, and additional files, please refer to the Supplementary Files folder on GitHub. If you have any other suggestions for mods, feel free to send me an email.
 
 Big thank you to Julien Kerboeuf for creating the [Minecraft Resource Extractor](https://github.com/JKerboeuf/Minecraft-Resource-Extractor). It definitely helped speed up a lot of the tedious parts. Thank you also to the Mojang Art Director [JAPPA](https://x.com/JasperBoerstra) for the texture update for 1.14! 
 
