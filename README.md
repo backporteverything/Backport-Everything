@@ -43,7 +43,7 @@ Just a note, rd-20090515 kept crashing for me on launch, and so I can't test it.
 To add textures to old versions that don't support texture packs, you'll need to add them as a jar mod using [Prism Launcher](https://prismlauncher.org/) or [MultiMC](https://multimc.org/). They're pretty much the same, but Prism Launcher has fancy extra features.
 
 1. Download the ZIP file for the version of Minecraft you want to change. You'll need it for later.
-2. Download and install either [Prism Launcher](https://prismlauncher.org/) or [MultiMC](https://multimc.org/), take your pick.
+2. Download and install either [Prism Launcher](https://prismlauncher.org/) or [MultiMC](https://multimc.org/); take your pick.
 3. Open either Prism or MultiMC, log in to your Microsoft account and then click the 'Add Instance' button in the top-right corner.
 4. In the 'Custom' (Prism) or 'Vanilla' (MultiMC) section, on the right-hand side, tick the checkboxes for 'Betas' and 'Alphas' in the filter list.
 5. Scroll down to the version you want to play, select it and click the OK button in the bottom-right.
