@@ -17,6 +17,7 @@ This was a fun little project, but there are **probably a few texture issues her
 - Before 1.5.1, the clock texture is only modifiable with MCPatcher or OptiFine for older versions.
 - Some versions of the texture pack don't have colour formatting in the pack.txt file, as an undesired character shows before the coloured text.
 - Water & lava animated textures have been added, but they require either OptiFine or MCPatcher to appear in-game for older versions.
+</details>
 
 Currently, this pack supports: 
 - OptiFine
