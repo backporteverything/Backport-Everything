@@ -29,7 +29,7 @@ For archived versions of OptiFine, MCPatcher, and additional files, please refer
 Big thank you to Julien Kerboeuf for creating the [Minecraft Resource Extractor](https://github.com/JKerboeuf/Minecraft-Resource-Extractor). It definitely helped speed up a lot of the tedious parts. Thank you also to the Mojang Art Director [JAPPA](https://x.com/JasperBoerstra) for the texture update for 1.14! 
 
 ## Installing texture packs for versions 1.5.2 to Alpha v1.2.6
-Texture packs are natively supported for these versions, and so installing is pretty easy.
+Texture packs are natively supported for these versions, making installation relatively easy.
 1. Run Minecraft, click the Texture Packs (1.1/1.0) or Mods and Texture Packs (b.1.8.1 and earlier) button in the main menu.
 2. Click the Open Texture Pack Folder button. This will open the folder where the texture packs can be installed.
 3. Drag the Backport Everything texture pack into the folder, and it should appear in Minecraft after a few seconds.
