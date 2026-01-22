@@ -11,34 +11,25 @@ There are other packs available, such as [MC New Textures](https://modrinth.com/
 This was a fun little project, but there are **probably a few texture issues here and there** from trying to convert them. If you notice any problems and are willing to let me know, please send an email to [backporteverything@gmail.com](mailto:backporteverything@gmail.com), and I'll address the issue. See below for a list of known bugs which will get fixed soon™.
 
 <details>
-<summary>Notes & Known Bugs</summary>
-Note: From 1.0 and newer, because the Redstone Wire (unconnected) texture is decided by the middle pixels of the Redstone Wire (NESW) texture, the unconnected texture cannot be made more accurate.<br> 
-<br>
-Note: From Alpha v1.2.0 to Beta 1.5, the Grass side faces are not affected by biome colours and are a static colour, but the top texture is, which is not fixable.
-
-Note: The Minecraft logo on the title screen is not modifiable.
-
-Note: The clock texture is only modifiable with MCPatcher or Optifine.
-
-Note: Some versions of the texture pack don't have colour formatting in the pack.txt file, as an undesired character shows before the coloured text.
-
-Note: Water & lava animated textures have been added, but they require either Optifine or MCPatcher to appear in-game.
-
-There are currently no known bugs.
-</details>
+<summary>Notes</summary>
+- From 1.0 and newer, because the Redstone Wire (unconnected) texture is decided by the middle pixels of the Redstone Wire (NESW) texture, the unconnected texture cannot be made more accurate.
+- From Alpha v1.2.0 to Beta 1.5, the Grass side faces are not affected by biome colours and are a static colour, but the top texture is, which is not fixable.
+- Before 1.5.1, the clock texture is only modifiable with MCPatcher or OptiFine for older versions.
+- Some versions of the texture pack don't have colour formatting in the pack.txt file, as an undesired character shows before the coloured text.
+- Water & lava animated textures have been added, but they require either OptiFine or MCPatcher to appear in-game for older versions.
 
 Currently, this pack supports: 
-- Optifine
+- OptiFine
 - MCPatcher
 - [StationAPI](https://modrinth.com/mod/stationapi)
 - [MoreTexture StationAPI](https://github.com/FarnGitHub/More-Texture-StationAPI)
 - [The Aether](https://modrinth.com/mod/aether) and [Aether on Station API](https://modrinth.com/mod/aether-stapi)
 
-For archived versions of Optifine, MCPatcher, and additional files, please refer to the Supplementary Files folder on GitHub. If you have any other suggestions for mods, feel free to send me an email.
+For archived versions of OptiFine, MCPatcher, and additional files, please refer to the Supplementary Files folder on GitHub. If you have any other suggestions for mods, feel free to send me an email.
 
 Big thank you to Julien Kerboeuf for creating the [Minecraft Resource Extractor](https://github.com/JKerboeuf/Minecraft-Resource-Extractor). It definitely helped speed up a lot of the tedious parts. Thank you also to the Mojang Art Director [JAPPA](https://x.com/JasperBoerstra) for the texture update for 1.14! 
 
-## Installing texture packs for versions 1.1 to Alpha v1.2.6
+## Installing texture packs for versions 1.5.2 to Alpha v1.2.6
 Texture packs are natively supported for these versions, and so installing is pretty easy.
 1. Run Minecraft, click the Texture Packs (1.1/1.0) or Mods and Texture Packs (b.1.8.1 and earlier) button in the main menu.
 2. Click the Open Texture Pack Folder button. This will open the folder where the texture packs can be installed.
@@ -50,18 +41,18 @@ Texture packs are natively supported for these versions, and so installing is pr
 
 Just a note, rd-20090515 kept crashing for me on launch, and so I can't test it. But since it's just 13 textures, you won't be missing much if you can't run it yourself.
 
-To add textures to old versions that don't support texture packs, you'll need to add them as a jar mod using [Prism Launcher](https://prismlauncher.org/) or [MultiMC](https://multimc.org/), they're pretty much the same, but Prism Launcher has fancy extra features.
+To add textures to old versions that don't support texture packs, you'll need to add them as a jar mod using [Prism Launcher](https://prismlauncher.org/) or [MultiMC](https://multimc.org/). They're pretty much the same, but Prism Launcher has fancy extra features.
 
 1. Download the ZIP file for the version of Minecraft you want to change. You'll need it for later.
-1. Download and install either [Prism Launcher](https://prismlauncher.org/) or [MultiMC](https://multimc.org/), take your pick.
-2. Open either Prism or MultiMC, log in to your Microsoft account and then click the 'Add Instance' button in the top-right corner.
-3. In the 'Custom' (Prism) or 'Vanilla' (MultiMC) section, on the right-hand side, tick the checkboxes for 'Betas' and 'Alphas' in the filter list.
-4. Scroll down to the version you want to play, select it and click the OK button in the bottom-right.
-5. Once you've clicked OK, an icon will appear for the version you selected. Right-click on the icon and click 'Edit...' (Prism) or 'Edit Instance' (MultiMC)
-6. Go to the 'Version' tab if you're on Prism Launcher.
-7. Once you're on the version tab, you should see a list of actions on the right-hand side. Click the button that says 'Add to Minecraft.jar'
-8. A new window should appear, locate the Backport Everything file, select it and open it.
-9. The jar mod should now be installed. You can then launch the version of Minecraft, and the new textures should work!
+2. Download and install either [Prism Launcher](https://prismlauncher.org/) or [MultiMC](https://multimc.org/), take your pick.
+3. Open either Prism or MultiMC, log in to your Microsoft account and then click the 'Add Instance' button in the top-right corner.
+4. In the 'Custom' (Prism) or 'Vanilla' (MultiMC) section, on the right-hand side, tick the checkboxes for 'Betas' and 'Alphas' in the filter list.
+5. Scroll down to the version you want to play, select it and click the OK button in the bottom-right.
+6. Once you've clicked OK, an icon will appear for the version you selected. Right-click on the icon and click 'Edit...' (Prism) or 'Edit Instance' (MultiMC).
+7. Go to the 'Version' tab if you're on Prism Launcher.
+8. Once you're on the version tab, you should see a list of actions on the right-hand side. Click the button that says 'Add to Minecraft.jar'
+9. A new window should appear, locate the Backport Everything file, select it and open it.
+10. The jar mod should now be installed. You can then launch the version of Minecraft, and the new textures should work!
 
 ## Screenshots
 
