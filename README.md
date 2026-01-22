@@ -10,14 +10,12 @@ There are other packs available, such as [MC New Textures](https://modrinth.com/
 
 This was a fun little project, but there are **probably a few texture issues here and there** from trying to convert them. If you notice any problems and are willing to let me know, please send an email to [backporteverything@gmail.com](mailto:backporteverything@gmail.com), and I'll address the issue. See below for a list of known bugs which will get fixed soon™.
 
-<details>
-<summary>Notes</summary>
+Notes:
 - From 1.0 and newer, because the Redstone Wire (unconnected) texture is decided by the middle pixels of the Redstone Wire (NESW) texture, the unconnected texture cannot be made more accurate.
 - From Alpha v1.2.0 to Beta 1.5, the Grass side faces are not affected by biome colours and are a static colour, but the top texture is, which is not fixable.
 - Before 1.5.1, the clock texture is only modifiable with MCPatcher or OptiFine for older versions.
 - Some versions of the texture pack don't have colour formatting in the pack.txt file, as an undesired character shows before the coloured text.
 - Water & lava animated textures have been added, but they require either OptiFine or MCPatcher to appear in-game for older versions.
-</details>
 
 Currently, this pack supports: 
 - OptiFine
