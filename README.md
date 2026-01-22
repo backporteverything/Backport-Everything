@@ -65,7 +65,7 @@ To add textures to old versions that don't support texture packs, you'll need to
 **Pre-Classic rd-132211**: The oldest version of Minecraft was released in 2009.
 
 ![Screenshot of The Aether in Beta 1.7.3](https://cdn.modrinth.com/data/egcD59Ms/images/5bb5f72b4053622256f1edb57a10d1783f5f5bf3.webp)
-**The Aether Beta 1.7.3**: Backport Everything supports The Aether (1.0 and b1.7.3) and Aether on Station API (b1.7.3).
+**The Aether Beta 1.7.3**: Backport Everything supports The Aether (1.2.5, 1.0 and b1.7.3) and Aether on Station API (b1.7.3).
 
 ![Screenshot of a Texture Pack Showcase in Beta 1.7.3](https://cdn.modrinth.com/data/egcD59Ms/images/7278d08e8b1009f8a680f52c295bc0e27ef80680.webp)
 **Beta 1.7.3 Texture Pack Showcase**: It's weird to show this with default textures, but it's here for nostalgia.
