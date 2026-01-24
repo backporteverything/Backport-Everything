@@ -15,7 +15,7 @@ Notes:
 - From Alpha v1.2.0 to Beta 1.5, the Grass side faces are not affected by biome colours and are a static colour, but the top texture is, which is not fixable.
 - Before 1.5.1, the clock texture is only modifiable with MCPatcher or OptiFine for older versions.
 - Some versions of the texture pack don't have colour formatting in the pack.txt file, as an undesired character shows before the coloured text.
-- Water & lava animated textures have been added, but they require either OptiFine or MCPatcher to appear in-game for older versions.
+- Water & lava animated textures have been added, but they require either OptiFine or MCPatcher to appear in-game in older versions.
 
 Currently, this pack supports: 
 - OptiFine
@@ -24,7 +24,7 @@ Currently, this pack supports:
 - [MoreTexture StationAPI](https://github.com/FarnGitHub/More-Texture-StationAPI)
 - [The Aether](https://modrinth.com/mod/aether) and [Aether on Station API](https://modrinth.com/mod/aether-stapi)
 
-For archived versions of OptiFine, MCPatcher, and additional files, please refer to the Supplementary Files folder on GitHub. If you have any other suggestions for mods, feel free to send me an email.
+OptiFine 1.7.2 and newer [can be found here](https://optifine.net/downloads). For archived versions of OptiFine, MCPatcher, and additional files, please refer to the Supplementary Files folder on GitHub. If you have any other suggestions for mods, feel free to email me.
 
 Big thank you to Julien Kerboeuf for creating the [Minecraft Resource Extractor](https://github.com/JKerboeuf/Minecraft-Resource-Extractor). It definitely helped speed up a lot of the tedious parts. Thank you also to the Mojang Art Director [JAPPA](https://x.com/JasperBoerstra) for the texture update for 1.14! 
 
