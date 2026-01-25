@@ -4,18 +4,18 @@
 
 If you want to see what older versions look like with new textures, _this is the pack for you_. Test them out on older versions for a laugh, or start an alpha or beta survival world for a simpler time.
 
-Currently updated for **1.21.11 textures**, this pack hopes to bring the modern version to the older ones. Currently, the pack **supports versions 1.7.10 and older**, dating back to the first version in 2009 with the pre-classic build rd-132211, which features only grass and cobblestone.
+Currently updated for **1.21.11 textures**, this pack aims to bring the modern version to older versions. Currently, the pack **supports versions 1.11.2 and older**, dating back to the first version in 2009 with the pre-classic build rd-132211, which features only grass and cobblestone.
 
 There are other packs available, such as [MC New Textures](https://modrinth.com/resourcepack/mc-new-textures), [Modernity](https://modrinth.com/resourcepack/modernity) and [Modern Textures](https://modrinth.com/resourcepack/modern-textures), but I find that they either miss out some textures (e.g. leather armour, fast leaves) or don't support the beta and alpha versions. This texture project is also available to download on Modrinth if you prefer, [click here for a link](https://modrinth.com/resourcepack/backport-everything).
 
-This was a fun little project, but there are **probably a few texture issues here and there** from trying to convert them. If you notice any problems and are willing to let me know, please send an email to [backporteverything@gmail.com](mailto:backporteverything@gmail.com), and I'll address the issue. See below for a list of known bugs which will get fixed soon™.
+This was a fun little project, but there are **probably a few texture issues here and there** from the conversion. If you notice any problems and are willing to let me know, please email [backporteverything@gmail.com](mailto:backporteverything@gmail.com), and I'll address the issue. See below for a list of known bugs which will get fixed soon™.
 
 Notes:
 - From 1.0 and newer, because the Redstone Wire (unconnected) texture is decided by the middle pixels of the Redstone Wire (NESW) texture, the unconnected texture cannot be made more accurate.
 - From Alpha v1.2.0 to Beta 1.5, the Grass side faces are not affected by biome colours and are a static colour, but the top texture is, which is not fixable.
 - Before 1.5.1, the clock texture is only modifiable with MCPatcher or OptiFine for older versions.
 - Some versions of the texture pack don't have colour formatting in the pack.txt file, as an undesired character shows before the coloured text.
-- Water & lava animated textures have been added, but they require either OptiFine or MCPatcher to appear in-game in older versions.
+- For some versions, water & lava animated textures have been added, but they require either OptiFine or MCPatcher to appear in-game in older versions.
 
 Currently, this pack supports: 
 - OptiFine
