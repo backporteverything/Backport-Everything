@@ -4,7 +4,7 @@
 
 If you want to see what older versions look like with new textures, _this is the pack for you_. Test them out on older versions for a laugh, or start an alpha or beta survival world for a simpler time.
 
-Currently updated for **1.21.11 textures**, this pack aims to bring modern versions to older ones. Currently, the pack **supports versions 1.11.2 and older**, dating back to the first version in 2009 with the pre-classic build rd-132211, which features only grass and cobblestone.
+Currently updated for **1.21.11 textures**, this pack aims to bring modern versions to older ones. Currently, the pack **supports versions 1.13.2 and older**, dating back to the first version in 2009 with the pre-classic build rd-132211, which features only grass and cobblestone.
 
 There are other packs available, such as [MC New Textures](https://modrinth.com/resourcepack/mc-new-textures), [Modernity](https://modrinth.com/resourcepack/modernity) and [Modern Textures](https://modrinth.com/resourcepack/modern-textures), but I find that they either miss out some textures (e.g. leather armour, fast leaves) or don't support the beta and alpha versions. This texture project is also available to download on Modrinth if you prefer, [click here for a link](https://modrinth.com/resourcepack/backport-everything).
 
