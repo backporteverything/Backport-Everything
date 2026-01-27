@@ -22,7 +22,7 @@ Currently, this pack supports:
 - MCPatcher
 - [StationAPI](https://modrinth.com/mod/stationapi)
 - [MoreTexture StationAPI](https://github.com/FarnGitHub/More-Texture-StationAPI)
-- [The Aether](https://modrinth.com/mod/aether) and [Aether on Station API](https://modrinth.com/mod/aether-stapi)
+- [The Aether](https://modrinth.com/mod/aether) (b1.7.3 & 1.2.5) and [Aether on Station API](https://modrinth.com/mod/aether-stapi) (b1.7.3)
 
 OptiFine 1.7.2 and newer [can be found here](https://optifine.net/downloads). For archived versions of OptiFine, MCPatcher, and additional files, please refer to the Supplementary Files folder on GitHub. If you have any other suggestions for mods, feel free to email me.
 
