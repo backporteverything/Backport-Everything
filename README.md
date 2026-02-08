@@ -8,21 +8,24 @@ Currently updated for **1.21.11 textures**, this pack aims to bring modern versi
 
 There are other packs available, such as [MC New Textures](https://modrinth.com/resourcepack/mc-new-textures), [Modernity](https://modrinth.com/resourcepack/modernity) and [Modern Textures](https://modrinth.com/resourcepack/modern-textures), but I find that they either miss out some textures (e.g. leather armour, fast leaves) or don't support the beta and alpha versions. This texture project is also available to download on Modrinth if you prefer, [click here for a link](https://modrinth.com/resourcepack/backport-everything).
 
-This was a fun little project, but there are **probably a few texture issues here and there** from the conversion. If you notice any problems and are willing to let me know, please email [backporteverything@gmail.com](mailto:backporteverything@gmail.com), and I'll address the issue. See below for a list of known bugs which will get fixed soon™.
-
-Notes:
-- From 1.0 and newer, because the Redstone Wire (unconnected) texture is decided by the middle pixels of the Redstone Wire (NESW) texture, the unconnected texture cannot be made more accurate.
-- From Alpha v1.2.0 to Beta 1.5, the Grass side faces are not affected by biome colours and are a static colour, but the top texture is, which is not fixable.
-- Before 1.5.1, the clock texture is only modifiable with MCPatcher or OptiFine for older versions.
-- Some versions of the texture pack don't have colour formatting in the pack.txt file, as an undesired character shows before the coloured text.
-- For some versions, water & lava animated textures have been added, but they require either OptiFine or MCPatcher to appear in-game in older versions.
-
-Currently, this pack supports: 
-- OptiFine
-- MCPatcher
-- [StationAPI](https://modrinth.com/mod/stationapi)
-- [MoreTexture StationAPI](https://github.com/FarnGitHub/More-Texture-StationAPI)
+A couple of the things that this pack supports:
+- Backported 1.21.11 textures to all versions
+- New redstone repeater, comparator & torch (1.20.1 to 1.8)
+- HD ghast texture from 1.21.6 (1.20.1 to 1.6.1)
+- HD Minecraft logo (1.20.1 to b1.8)
+- Unique spawn egg textures (1.20.1 to 1.8, OptiFine required before 1.13)
+- Wolf colour variants (1.20.1 to 1.8, OptiFine/Entity Texture Features required)
+- Bush texture (1.20.1 to 1.8)
+- Tall & short dry grass textures (1.20.1 to 1.8)
 - [The Aether](https://modrinth.com/mod/aether) (b1.7.3 & 1.2.5) and [Aether on Station API](https://modrinth.com/mod/aether-stapi) (b1.7.3)
+
+A few things this pack doesn't support at the moment:
+- New music released after 1.21.1, check out [Tunes : Backport](https://modrinth.com/resourcepack/tunes-backport) by wasabliss. I'd add it, but the zip file size would be huge.
+- [Horse](https://modrinth.com/resourcepack/horse-backport), [vex](https://modrinth.com/resourcepack/vex-backport), [bat](https://modrinth.com/resourcepack/bat-backport) & [zombie piglin](https://modrinth.com/resourcepack/zombie-piglin-backport) model backports, see Scutoel's packs linked. I'm not smart enough to make entity models, but there are converted textures for each mob using the old version's models.
+- Bogged models, see [Bogged Backport](https://modrinth.com/resourcepack/bogged-backport) by realllyrandommann.
+- [Leaf litter](https://modrinth.com/resourcepack/leaf-litter-backport) and [wildflowers](https://modrinth.com/resourcepack/wildflowers-backport), see ludo_silver_'s packs linked. Not added, as they are a little janky since they don't work as a standalone block, but they are an alternative grass texture.
+
+This was a fun little project, but there are **probably a few texture issues here and there** from the conversion. If you notice any problems and are willing to let me know, please email [backporteverything@gmail.com](mailto:backporteverything@gmail.com), and I'll address the issue. See below for a list of known bugs which will get fixed soon™.
 
 OptiFine 1.7.2 and newer [can be found here](https://optifine.net/downloads). For archived versions of OptiFine, MCPatcher, and additional files, please refer to the Supplementary Files folder on GitHub. If you have any other suggestions for mods, feel free to email me.
 
