@@ -9,7 +9,7 @@ Currently updated for **1.21.11 textures**, this pack aims to bring modern versi
 There are other packs available, such as [MC New Textures](https://modrinth.com/resourcepack/mc-new-textures), [Modernity](https://modrinth.com/resourcepack/modernity) and [Modern Textures](https://modrinth.com/resourcepack/modern-textures), but I find that they either miss out some textures (e.g. leather armour, fast leaves) or don't support the beta and alpha versions. This texture project is also available to download on Modrinth if you prefer, [click here for a link](https://modrinth.com/resourcepack/backport-everything).
 
 A couple of the things that this pack supports:
-- Backported 1.21.11 textures to all versions
+- Backported 1.21.11 textures to all versions (OptiFine, MCPatcher or equivalent required for some textures)
 - New redstone repeater, comparator & torch (1.20.1 to 1.8)
 - HD ghast texture from 1.21.6 (1.20.1 to 1.6.1)
 - HD Minecraft logo (1.20.1 to b1.8)
