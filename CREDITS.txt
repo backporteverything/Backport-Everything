@@ -1,9 +1,7 @@
 Backport Everything
 Copyright © 2026 samfortyseven
 
-This resource pack includes original content and third-party assets licensed
-under the Creative Commons Attribution-ShareAlike 4.0 International License
-(CC BY-SA 4.0).
+This resource pack includes original content and third-party assets licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 
 ---
 
