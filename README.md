@@ -21,7 +21,6 @@ A couple of the things that this pack supports:
 
 A few things this pack doesn't support at the moment:
 - New music released after 1.21.1, check out [Tunes : Backport](https://modrinth.com/resourcepack/tunes-backport) by wasabliss. I'd add it, but the zip file size would be huge.
-- [Horse](https://modrinth.com/resourcepack/horse-backport), [vex](https://modrinth.com/resourcepack/vex-backport), [bat](https://modrinth.com/resourcepack/bat-backport) & [zombie piglin](https://modrinth.com/resourcepack/zombie-piglin-backport) model backports, see Scutoel's packs linked. I'm not smart enough to make entity models, but there are converted textures for each mob using the old version's models.
 - Bogged models, see [Bogged Backport](https://modrinth.com/resourcepack/bogged-backport) by realllyrandommann.
 - [Leaf litter](https://modrinth.com/resourcepack/leaf-litter-backport) and [wildflowers](https://modrinth.com/resourcepack/wildflowers-backport), see ludo_silver_'s packs linked. Not added, as they are a little janky since they don't work as a standalone block, but they are an alternative grass texture.
 
@@ -29,7 +28,16 @@ This was a fun little project, but there are **probably a few texture issues her
 
 OptiFine 1.7.2 and newer [can be found here](https://optifine.net/downloads). For archived versions of OptiFine, MCPatcher, and additional files, please refer to the Supplementary Files folder on GitHub. If you have any other suggestions for mods, feel free to email me.
 
-Big thank you to Julien Kerboeuf for creating the [Minecraft Resource Extractor](https://github.com/JKerboeuf/Minecraft-Resource-Extractor). It definitely helped speed up a lot of the tedious parts. Thank you also to the Mojang Art Director [JAPPA](https://x.com/JasperBoerstra) for the texture update for 1.14! 
+### License
+This pack (including all original content and included third-party CC BY-SA 4.0 assets) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+### Third-Party Assets
+- [Horse Backport by Scuteol](https://modrinth.com/resourcepack/horse-backport)
+- [Vex Backport by Scuteol](https://modrinth.com/resourcepack/vex-backport)
+- [Bat Backport by Scuteol](https://modrinth.com/resourcepack/bat-backport)
+- [Zombie Piglin Backport by Scuteol](https://modrinth.com/resourcepack/zombie-piglin-backport)
+
+**Note:** Minecraft textures are © Mojang Studios and **not included under CC BY-SA 4.0.**
 
 ## Installing texture packs for versions 1.5.2 to Alpha v1.2.6
 Texture packs are natively supported for these versions, making installation relatively easy.
@@ -54,7 +62,7 @@ To add textures to old versions that don't support texture packs, you'll need to
 7. Go to the 'Version' tab if you're on Prism Launcher.
 8. Once you're on the version tab, you should see a list of actions on the right-hand side. Click the button that says 'Add to Minecraft.jar'
 9. A new window should appear, locate the Backport Everything file, select it and open it.
-10. The jar mod should now be installed. You can then launch the version of Minecraft, and the new textures should work!
+10. The jar mod should now be installed. You can then launch Minecraft, and the new textures should work!
 
 ## Screenshots
 
@@ -87,10 +95,3 @@ To add textures to old versions that don't support texture packs, you'll need to
 
 ![Screenshot of Beta 1.8.1](https://cdn.modrinth.com/data/egcD59Ms/images/d99d5488c1f8e41824ea95b8c5b5d2a7ec1955c8.png)
 **Beta 1.8.1**: The last update in the Beta stage of Minecraft's development.
-
-## License
-
-This project is licensed under the Creative Commons Attribution-ShareAlike 4.0
-International License (CC BY-SA 4.0).
-
-See the LICENSE file for details.
