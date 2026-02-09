@@ -87,3 +87,10 @@ To add textures to old versions that don't support texture packs, you'll need to
 
 ![Screenshot of Beta 1.8.1](https://cdn.modrinth.com/data/egcD59Ms/images/d99d5488c1f8e41824ea95b8c5b5d2a7ec1955c8.png)
 **Beta 1.8.1**: The last update in the Beta stage of Minecraft's development.
+
+## License
+
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License (CC BY-SA 4.0).
+
+See the LICENSE file for details.
