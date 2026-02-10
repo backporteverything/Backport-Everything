@@ -21,7 +21,7 @@ A couple of the things that this pack supports:
 
 A few things this pack doesn't support at the moment:
 - New music released after 1.21.1, check out [Tunes : Backport](https://modrinth.com/resourcepack/tunes-backport) by wasabliss. I'd add it, but the zip file size would be huge.
-- Horse, vex, bat & zombie piglin model backports, see Scutoel's packs linked. These models require OptiFine and break textures on vanilla versions. I'm not adding them because that would make OptiFine a dependency.
+- [Horse](https://modrinth.com/resourcepack/horse-backport), [vex](https://modrinth.com/resourcepack/vex-backport), [bat](https://modrinth.com/resourcepack/bat-backport) & [zombie piglin](https://modrinth.com/resourcepack/zombie-piglin-backport) model backports, see Scutoel's packs linked. These models require OptiFine and break textures on vanilla versions. I'm not adding them because that would make OptiFine a dependency.
 - Bogged models, see [Bogged Backport](https://modrinth.com/resourcepack/bogged-backport) by realllyrandommann. Not added for the same reason as above.
 - [Leaf litter](https://modrinth.com/resourcepack/leaf-litter-backport) and [wildflowers](https://modrinth.com/resourcepack/wildflowers-backport), see ludo_silver_'s packs linked. Not added, as they are a little janky since they don't work as a standalone block, but they are an alternative grass texture.
 
@@ -30,15 +30,9 @@ This was a fun little project, but there are **probably a few texture issues her
 OptiFine 1.7.2 and newer [can be found here](https://optifine.net/downloads). For archived versions of OptiFine, MCPatcher, and additional files, please refer to the Supplementary Files folder on GitHub. If you have any other suggestions for mods, feel free to email me.
 
 ### License
-This pack (including all original content and included third-party CC BY-SA 4.0 assets) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+This pack’s original content is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-### Third-Party Assets
-- [Horse Backport by Scuteol](https://modrinth.com/resourcepack/horse-backport)
-- [Vex Backport by Scuteol](https://modrinth.com/resourcepack/vex-backport)
-- [Bat Backport by Scuteol](https://modrinth.com/resourcepack/bat-backport)
-- [Zombie Piglin Backport by Scuteol](https://modrinth.com/resourcepack/zombie-piglin-backport)
-
-**Note:** Minecraft textures are © Mojang Studios and **not included under CC BY-SA 4.0.**
+**Note:** Vanilla Minecraft textures are © Mojang Studios and are not included under CC BY-SA 4.0.
 
 ## Installing texture packs for versions 1.5.2 to Alpha v1.2.6
 Texture packs are natively supported for these versions, making installation relatively easy.
