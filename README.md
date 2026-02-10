@@ -32,7 +32,7 @@ OptiFine 1.7.2 and newer [can be found here](https://optifine.net/downloads). Fo
 ### License
 This pack’s original content is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-**Note:** Vanilla Minecraft textures are © Mojang Studios and are not included under CC BY-SA 4.0.
+**Note:** Vanilla Minecraft assets are © Mojang Studios and are not included under CC BY-SA 4.0.
 
 ## Installing texture packs for versions 1.5.2 to Alpha v1.2.6
 Texture packs are natively supported for these versions, making installation relatively easy.
