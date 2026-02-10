@@ -21,7 +21,8 @@ A couple of the things that this pack supports:
 
 A few things this pack doesn't support at the moment:
 - New music released after 1.21.1, check out [Tunes : Backport](https://modrinth.com/resourcepack/tunes-backport) by wasabliss. I'd add it, but the zip file size would be huge.
-- Bogged models, see [Bogged Backport](https://modrinth.com/resourcepack/bogged-backport) by realllyrandommann.
+- Horse, vex, bat & zombie piglin model backports, see Scutoel's packs linked. These models require OptiFine and break textures on vanilla versions. I'm not adding them because that would make OptiFine a dependency.
+- Bogged models, see [Bogged Backport](https://modrinth.com/resourcepack/bogged-backport) by realllyrandommann. Not added for the same reason as above.
 - [Leaf litter](https://modrinth.com/resourcepack/leaf-litter-backport) and [wildflowers](https://modrinth.com/resourcepack/wildflowers-backport), see ludo_silver_'s packs linked. Not added, as they are a little janky since they don't work as a standalone block, but they are an alternative grass texture.
 
 This was a fun little project, but there are **probably a few texture issues here and there** from the conversion. If you notice any problems and are willing to let me know, please email [backporteverything@gmail.com](mailto:backporteverything@gmail.com), and I'll address the issue. See below for a list of known bugs which will get fixed soon™.
