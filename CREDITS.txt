@@ -1,38 +1,11 @@
 Backport Everything
 Copyright © 2026 samfortyseven
 
-This resource pack includes original content and third-party assets licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+All content in this pack is original and licensed under the
+Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 
 ---
 
-Third-Party Assets:
-
-Horse Backport
-Author: Scuteol
-Source: https://modrinth.com/resourcepack/horse-backport
-License: CC BY-SA 4.0
-
-Vex Backport
-Author: Scuteol
-Source: https://modrinth.com/resourcepack/vex-backport
-License: CC BY-SA 4.0
-
-Bat Backport
-Author: Scuteol
-Source: https://modrinth.com/resourcepack/bat-backport
-License: CC BY-SA 4.0
-
-Zombie Piglin Backport
-Author: Scuteol
-Source: https://modrinth.com/resourcepack/zombie-piglin-backport
-License: CC BY-SA 4.0
-
----
-
-Vanilla Minecraft Textures:
-© Mojang Studios. Original textures are copyrighted by Mojang.
-Used here for backporting purposes only; not covered under CC BY-SA.
-
----
-
-All CC BY-SA assets may be redistributed and adapted under the same license.
+Vanilla Minecraft Assets:
+© Mojang Studios. Original assets are copyrighted by Mojang.
+Used here for backporting purposes only; not covered under CC BY-SA 4.0.
