@@ -4,4 +4,5 @@ Copyright © 2026 samfortyseven
 This pack contains:
 
 - Original content created by samfortyseven, licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)
+- Select assets originally created by Qwuiblington from the pack: "actually correct 1.14 texture backport" (https://www.curseforge.com/minecraft/texture-packs/actually-correct-1-14-texture-backport)
 - Vanilla Minecraft assets © Mojang Studios, used for backporting purposes only and not licensed under CC BY-SA 4.0
