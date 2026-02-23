@@ -32,7 +32,9 @@ OptiFine 1.7.2 and newer [can be found here](https://optifine.net/downloads). Fo
 ### License
 This pack’s original content is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-**Note:** Vanilla Minecraft assets are © Mojang Studios and are not included under CC BY-SA 4.0.
+Vanilla Minecraft assets are © Mojang Studios and are not included under CC BY-SA 4.0.
+
+Select assets from Qwuiblington's [actually correct new default texture backport](https://www.curseforge.com/minecraft/texture-packs/actually-correct-1-14-texture-backport) are included under Public Domain.
 
 ## Installing texture packs for versions 1.5.2 to Alpha v1.2.6
 Texture packs are natively supported for these versions, making installation relatively easy.
