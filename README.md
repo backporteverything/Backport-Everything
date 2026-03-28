@@ -63,32 +63,32 @@ To add textures to old versions that don't support texture packs, you'll need to
 
 ## Screenshots
 
-![Screenshot of Alpha v1.1.2_01](https://cdn.modrinth.com/data/egcD59Ms/images/7641b7b67d0ff00b3b40f9bdbfdc2c5e38e01d98.webp)
-**Alpha v1.1.2_01**: Screenshot taken on the Planet Nostalgia server.
+![Screenshot of a Beta 1.7.3 Texture Pack Showcase](https://cdn.modrinth.com/data/egcD59Ms/images/7641b7b67d0ff00b3b40f9bdbfdc2c5e38e01d98.webp)
+**Beta 1.7.3 Texture Pack Showcase**: It's unusual to showcase this with default textures, but it's included here for nostalgia purposes. I couldn't be bothered watching wheat grow as well, so ignore that.
 
-![Screenshot of Beta 1.2_02](https://cdn.modrinth.com/data/egcD59Ms/images/146713a7b5cd71e6a18ae91d1c31f5f0e6142d26.webp)
-**Beta 1.2_02**: Beta 1.2 was the first version released in 2011.
+![Screenshot of the unique spawn eggs](https://cdn.modrinth.com/data/egcD59Ms/images/146713a7b5cd71e6a18ae91d1c31f5f0e6142d26.webp)
+**Unique Spawn Eggs**: The spawn eggs were probably the most time-consuming part of the pack due to item models. It's supported for 1.20.1 to 1.8, with OptiFine required before 1.13.
 
-![Screenshot of Pre-Classic rd-132211](https://cdn.modrinth.com/data/egcD59Ms/images/62d5f35c5639fe68822c23782942a3ae8b1083c9.webp)
-**Pre-Classic rd-132211**: The oldest version of Minecraft was released in 2009.
+![Screenshot of Alpha v1.1.2_01](https://cdn.modrinth.com/data/egcD59Ms/images/62d5f35c5639fe68822c23782942a3ae8b1083c9.webp)
+**Alpha v1.1.2_01**: The first version of Minecraft that MCPatcher supports, but this doesn't feel right...
 
-![Screenshot of The Aether in Beta 1.7.3](https://cdn.modrinth.com/data/egcD59Ms/images/5bb5f72b4053622256f1edb57a10d1783f5f5bf3.webp)
-**The Aether Beta 1.7.3**: Backport Everything supports The Aether (1.2.5, 1.0 and b1.7.3) and Aether on Station API (b1.7.3).
+![Screenshot of The Aether on Beta 1.7.3](https://cdn.modrinth.com/data/egcD59Ms/images/5bb5f72b4053622256f1edb57a10d1783f5f5bf3.webp)
+**The Aether Beta 1.7.3**: Added for the modded nostalgia people. The pack includes support for The Aether (1.2.5, 1.0 and b1.7.3) and Aether on Station API (b1.7.3).
 
-![Screenshot of a Texture Pack Showcase in Beta 1.7.3](https://cdn.modrinth.com/data/egcD59Ms/images/7278d08e8b1009f8a680f52c295bc0e27ef80680.webp)
-**Beta 1.7.3 Texture Pack Showcase**: It's unusual to showcase this with default textures, but it's included here for nostalgia.
+![Screenshot of tall & short dry grass](https://cdn.modrinth.com/data/egcD59Ms/images/7278d08e8b1009f8a680f52c295bc0e27ef80680.webp)
+**Tall & Short Dry Grass**: Dry grass has a 28% chance of replacing a dead bush. I can't remember why I picked 28% when I wrote this. It's supported for 1.20.1 to 1.8.
 
-![Screenshot of Infdev 20100618](https://cdn.modrinth.com/data/egcD59Ms/images/aa32589bb79f5f98eef3219c95c8363c15249577.webp)
-**Infdev 20100618**: This is the only version of Infdev available in the Minecraft Launcher.
+![Screenshot of a redstone repeater, comparator & torch](https://cdn.modrinth.com/data/egcD59Ms/images/aa32589bb79f5f98eef3219c95c8363c15249577.webp)
+**Redstone Repeater, Comparator & Torch**: For the redstone lovers out there! Supported for 1.20.1 to 1.8.
 
-![Screenshot of Beta 1.7.3](https://cdn.modrinth.com/data/egcD59Ms/images/79df91e91414fe9dca983e2705955179a8d178db.webp)
-**Beta 1.7.3**: Screenshot taken on the Modern Beta SMP server.
+![Screenshot of an HD Ghast](https://cdn.modrinth.com/data/egcD59Ms/images/79df91e91414fe9dca983e2705955179a8d178db.webp)
+**HD Ghast**: Absolute nightmare to screenshot. Supported for 1.201 to 1.6.1.
 
-![Screenshot of Beta 1.0](https://cdn.modrinth.com/data/egcD59Ms/images/88523bd05ad1a7484c15ce8bb3c5f2fc7eec42a4.webp)
-**Beta 1.0**: Finally Beta! Showing the snow texture and support for fast leaves.
+![Screenshot of the Connected Textures mod](https://cdn.modrinth.com/data/egcD59Ms/images/88523bd05ad1a7484c15ce8bb3c5f2fc7eec42a4.webp)
+**CTM**: Modern textures for connected textures, OptiFine, MCPatcher or equivalent required.
 
-![Screenshot of Alpha v1.2.2](https://cdn.modrinth.com/data/egcD59Ms/images/22f6a00f01957758bb5dcbfad9dde62d6c14abfc.webp)
-**Alpha v1.2.2**: The first version to support texture packs officially.
+![Screenshot of a bush](https://cdn.modrinth.com/data/egcD59Ms/images/22f6a00f01957758bb5dcbfad9dde62d6c14abfc.webp)
+**Bush**: Finally... bush. Has a 2% chance of replacing short grass. 1.20.1 to 1.8 exclusive.
 
-![Screenshot of Beta 1.8.1](https://cdn.modrinth.com/data/egcD59Ms/images/d99d5488c1f8e41824ea95b8c5b5d2a7ec1955c8.png)
-**Beta 1.8.1**: The last update in the Beta stage of Minecraft's development.
+![Screenshot of a 3D bed model](https://cdn.modrinth.com/data/egcD59Ms/images/d99d5488c1f8e41824ea95b8c5b5d2a7ec1955c8.png)
+**3D Bed Model**: Gotta get the legs on camera. 1.11 to 1.8, added in vanilla from 1.12 onwards.
