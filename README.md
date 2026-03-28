@@ -63,32 +63,32 @@ To add textures to old versions that don't support texture packs, you'll need to
 
 ## Screenshots
 
-![Screenshot of a Beta 1.7.3 Texture Pack Showcase](https://cdn.modrinth.com/data/egcD59Ms/images/7641b7b67d0ff00b3b40f9bdbfdc2c5e38e01d98.webp)
+![Screenshot of a Beta 1.7.3 Texture Pack Showcase](https://cdn.modrinth.com/data/egcD59Ms/images/22abb2821197bf58e2781e5bacc97cc3ae9153ac.webp)
 **Beta 1.7.3 Texture Pack Showcase**: It's unusual to showcase this with default textures, but it's included here for nostalgia purposes. I couldn't be bothered watching wheat grow as well, so ignore that.
 
-![Screenshot of the unique spawn eggs](https://cdn.modrinth.com/data/egcD59Ms/images/146713a7b5cd71e6a18ae91d1c31f5f0e6142d26.webp)
+![Screenshot of the unique spawn eggs](https://cdn.modrinth.com/data/egcD59Ms/images/1c790090384a82add36ec727faeff1aeaa9cbf08.webp)
 **Unique Spawn Eggs**: The spawn eggs were probably the most time-consuming part of the pack due to item models. It's supported for 1.20.1 to 1.8, with OptiFine required before 1.13.
 
-![Screenshot of Alpha v1.1.2_01](https://cdn.modrinth.com/data/egcD59Ms/images/62d5f35c5639fe68822c23782942a3ae8b1083c9.webp)
+![Screenshot of Alpha v1.1.2_01](https://cdn.modrinth.com/data/egcD59Ms/images/d20d316312e8eff91598e10817a8956a70a29b15.webp)
 **Alpha v1.1.2_01**: The first version of Minecraft that MCPatcher supports, but this doesn't feel right...
 
-![Screenshot of The Aether on Beta 1.7.3](https://cdn.modrinth.com/data/egcD59Ms/images/5bb5f72b4053622256f1edb57a10d1783f5f5bf3.webp)
+![Screenshot of The Aether on Beta 1.7.3](https://cdn.modrinth.com/data/egcD59Ms/images/235d59d178d1eb0bfbcaf3ac27da0142a2627da7.webp)
 **The Aether Beta 1.7.3**: Added for the modded nostalgia people. The pack includes support for The Aether (1.2.5, 1.0 and b1.7.3) and Aether on Station API (b1.7.3).
 
-![Screenshot of tall & short dry grass](https://cdn.modrinth.com/data/egcD59Ms/images/7278d08e8b1009f8a680f52c295bc0e27ef80680.webp)
+![Screenshot of tall & short dry grass](https://cdn.modrinth.com/data/egcD59Ms/images/0073f038d2f769ef674a04fdadb2bdd1b3074d3f.webp)
 **Tall & Short Dry Grass**: Dry grass has a 28% chance of replacing a dead bush. I can't remember why I picked 28% when I wrote this. It's supported for 1.20.1 to 1.8.
 
-![Screenshot of a redstone repeater, comparator & torch](https://cdn.modrinth.com/data/egcD59Ms/images/aa32589bb79f5f98eef3219c95c8363c15249577.webp)
+![Screenshot of a redstone repeater, comparator & torch](https://cdn.modrinth.com/data/egcD59Ms/images/c0ab9eec2da427a7f9943574bb3f05e65c6bb915.webp)
 **Redstone Repeater, Comparator & Torch**: For the redstone lovers out there! Supported for 1.20.1 to 1.8.
 
-![Screenshot of an HD Ghast](https://cdn.modrinth.com/data/egcD59Ms/images/79df91e91414fe9dca983e2705955179a8d178db.webp)
+![Screenshot of an HD Ghast](https://cdn.modrinth.com/data/egcD59Ms/images/cf56bfc64635397fc5faacdc669ced37179542e9.webp)
 **HD Ghast**: Absolute nightmare to screenshot. Supported for 1.201 to 1.6.1.
 
-![Screenshot of the Connected Textures mod](https://cdn.modrinth.com/data/egcD59Ms/images/88523bd05ad1a7484c15ce8bb3c5f2fc7eec42a4.webp)
+![Screenshot of the Connected Textures mod](https://cdn.modrinth.com/data/egcD59Ms/images/fb6d006e6959f4f260fa182053ce70391e2df2e5.webp)
 **CTM**: Modern textures for connected textures, OptiFine, MCPatcher or equivalent required.
 
-![Screenshot of a bush](https://cdn.modrinth.com/data/egcD59Ms/images/22f6a00f01957758bb5dcbfad9dde62d6c14abfc.webp)
+![Screenshot of a bush](https://cdn.modrinth.com/data/egcD59Ms/images/e4b046aa0d2beabe03f692a685b14734a832b3e2.webp)
 **Bush**: Finally... bush. Has a 2% chance of replacing short grass. 1.20.1 to 1.8 exclusive.
 
-![Screenshot of a 3D bed model](https://cdn.modrinth.com/data/egcD59Ms/images/d99d5488c1f8e41824ea95b8c5b5d2a7ec1955c8.png)
+![Screenshot of a 3D bed model](https://cdn.modrinth.com/data/egcD59Ms/images/35da3477fd11ded6148fc04ae412f88f9346c0ef.webp)
 **3D Bed Model**: Gotta get the legs on camera. 1.11 to 1.8, added in vanilla from 1.12 onwards.
